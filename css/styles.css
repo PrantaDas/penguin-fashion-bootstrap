@@ -1,0 +1,16 @@
+.fs{
+    font-size: 60px;
+}
+.f-color{
+    color: #FABE4C;
+}
+.jt{
+    text-align: justify;
+}
+.btn-style1{
+    padding: 15px 20px;
+    outline: 0;
+    background-color:#9DB53B;
+    border-radius: 8px;
+    margin: 15px 0;
+}
